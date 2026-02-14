@@ -1,0 +1,13 @@
+vanilla cupcake,500.0,Vanilla,Gluten-Free
+chocolate cupcake,600.0,Vanilla,Custom
+chocolate,300.0,Brownie,Classic
+vanilla,100.0,Vanilla,Classic
+red velvet,800.0,Red Velvet,Gluten-Free
+cholote,400.0,Vanilla,Seasonal
+nn,89.0,Vanilla,Classic
+vanilla,200.0,Vanilla,Classic
+hhh,78.0,Vanilla,Classic
+Chocolate Chip Cupcake,800.0,Chocolate,Custom
+Banana CUp cake,150.0,Vanilla,Gluten-Free
+Banana CUp cake,150.0,Vanilla,Gluten-Free
+chocolate chip,500.0,Brownie,Custom
